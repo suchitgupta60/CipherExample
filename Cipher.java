@@ -12,7 +12,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;  
 import javax.crypto.spec.DESKeySpec;  
   
-public class NeelPatel {  
+public class Cipher {  
   
     public static void main(String[] args) {  
         long startTime = System.nanoTime(); //start timer  
